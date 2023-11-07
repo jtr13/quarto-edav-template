@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "YOUR PROJECT TITLE",
+    "section": "",
+    "text": "1 Introduction\n\n\nCode\n3 + 4\n\n\n[1] 7"
+  },
+  {
+    "objectID": "data.html#description",
+    "href": "data.html#description",
+    "title": "2  Data",
+    "section": "2.1 Description",
+    "text": "2.1 Description"
+  },
+  {
+    "objectID": "data.html#missing-value-analysis",
+    "href": "data.html#missing-value-analysis",
+    "title": "2  Data",
+    "section": "2.2 Missing value analysis",
+    "text": "2.2 Missing value analysis"
+  }
+]

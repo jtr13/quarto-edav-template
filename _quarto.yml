@@ -1,0 +1,31 @@
+project:
+  type: book
+  output-dir: docs
+
+execute:
+  echo: true
+
+book:
+  title: "YOUR PROJECT TITLE"
+  author:
+    - AUTHOR1 (UNI1)
+    - AUTHOR2 (UNI2)
+  repo-url: https://github.com/YOUR_GITHUB_ACCOUNT/REPO_NAME
+  date: today
+  page-footer:
+    right: |
+      This book was built with <a href="https://quarto.org/">Quarto</a>.
+  repo-actions: [edit, issue]
+  chapters:
+    - index.qmd
+    - data.qmd
+    - results.qmd
+    - d3graph.qmd
+    - conclusion.qmd
+
+format:
+  html:
+    theme: cosmo
+    code-fold: true
+
+
