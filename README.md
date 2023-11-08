@@ -1,5 +1,7 @@
 This repo contains a [Quarto book](https://quarto.org/docs/books/) template for the EDAV final project.
 
+[Video tutorial](https://www.youtube.com/watch?v=emgS2JI4jCk) (walkthrough of steps below)
+
 ## Follow these instructions carefully
 
 *If you have any difficulties or have feedback of any kind, please [file an issue](https://github.com/jtr13/quarto-edav-template/issues) or ask questions in the [Discussions](https://github.com/jtr13/quarto-edav-template/discussions) section.*
