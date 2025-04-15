@@ -8,7 +8,7 @@ This repo contains a [Quarto book](https://quarto.org/docs/books/) template for 
 
 ### Copy this template (GitHub)
 
-- [ ] 1. Click the green "Use this template" button above and choose "Create a new repository". If you don't see the "Use this template" option, log in to GitHub. DO NOT FORK THE REPO. Choose a descriptive name for your repo, such as "federalbudget" or "AIDSdeaths". (If you change your topic before you do any work, delete the repo and start over.)
+- [ ] 1. Click the green "Use this template" button above and choose "Create a new repository". If you don't see the "Use this template" option, **log in to GitHub**. DO NOT FORK THE REPO. Choose a descriptive name for your repo, such as "federalbudget" or "AIDSdeaths". (If you change your topic before you do any work, delete the repo and start over.)
 
 - [ ] 2. Leave the setting for viewing the repo as "Public". (Otherwise, we will not be able to access your rendered book.)
 
