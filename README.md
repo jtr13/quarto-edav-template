@@ -12,7 +12,7 @@ This repo contains a [Quarto book](https://quarto.org/docs/books/) template for 
 
 - [ ] 2. Leave the setting for viewing the repo as "Public". (Otherwise, we will not be able to access your rendered book.)
 
-- [ ] 3. In the Description field, write "Source files for EDAV final project" then click "Create repository".
+- [ ] 3. In the Description field, write "Source files for final project" then click "Create repository".
 
 ### Set up Pages (GitHub)
 
