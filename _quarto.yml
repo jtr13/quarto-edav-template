@@ -20,7 +20,6 @@ book:
     - index.qmd
     - data.qmd
     - results.qmd
-    - d3graph.qmd
     - conclusion.qmd
 
 format:
