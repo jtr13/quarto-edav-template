@@ -44,7 +44,7 @@ Tip: From the file pane in RStudio, open `README.md`, which contains these instr
 
 - [ ] 4. If it looks good, commit and push all changed files to GitHub.
       
-- [ ] 5. Check that the rendered site looks correct on GitHub and that the links back to GitHub (icon on top left, edit this page / report an issue on right) work properly.
+- [ ] 5. Check that the rendered site looks correct on GitHub and that the links back to GitHub (icon on top left, edit this page / report an issue on right) work properly. Note that there is a delay between the time you push the files and when they show up on your sitel You can check the progress by clicking the Actions tab.
 
 (You will need to repeat steps 2 and 4 every time you wish to update the book on GitHub Pages.)
 
