@@ -42,7 +42,9 @@ Tip: From the file pane in RStudio, open `README.md`, which contains these instr
 
 - [ ] 3. Use `browseURL("docs/index.html")` to view your book locally (or just open `docs/index.html` in a browser).
 
-- [ ] 4. If it looks good, commit and push all changed files to GitHub. 
+- [ ] 4. If it looks good, commit and push all changed files to GitHub.
+      
+- [ ] 5. Check that the rendered site looks correct on GitHub and that the links back to GitHub (icon on top left, edit this page / report an issue on right) work properly.
 
 (You will need to repeat steps 2 and 4 every time you wish to update the book on GitHub Pages.)
 
